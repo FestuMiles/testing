@@ -195,7 +195,7 @@ nav .mobile-nav-toggle{
         align-content: space-around;
     } */
     .coming_soon .image-section img{
-        height: 50px;
+        display: none;
         margin-top: 0;
     }
 }
