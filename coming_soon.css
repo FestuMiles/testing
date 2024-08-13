@@ -178,7 +178,7 @@ nav .mobile-nav-toggle{
     
     .coming_soon .text-section{
         width: 100%;
-        text-alignment: center;
+        text-align: center;
     }
     .coming_soon h1{
         font-size: 40px;
